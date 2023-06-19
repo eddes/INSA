@@ -2,7 +2,7 @@
 
 <img title="INSA" alt="INSA log" src="https://www.insa-strasbourg.fr/wp-content/themes/insa_principal/images/logo-insa.svg">
 
-## Comment j'accède à un éditeur python ?
+## Comment accéder à un environnement python ?
 
 - Option flemme : je travaille en ligne, je clique sur les tutos et un lien m'envoyer vers google colab, où je pourrai tester le code
 - Option Install' : je télécharge une bonne fois pour toute Anaconda, c'est libre de droits et ça marche bien. Ensuite je lance "Jupyter Notebook (Anaconda 3)" depuis ma barre Windows et j'ouvre les fichiers tuto_X.ipynb, ou je copie colle les bouts de script dans l'éditeur de code Spyder (aussi contenu dans Anaconda).
