@@ -5,7 +5,7 @@
 ## Comment accéder à un environnement python ?
 
 - Option flemme : je travaille en ligne, je clique sur les tutos et un lien m'envoyer vers google colab, où je pourrai tester le code
-- Option Install' : je télécharge une bonne fois pour toute <a href="https://www.anaconda.com/download/">Anaconda<a>, c'est libre de droits et ça marche bien. Ensuite je lance "Jupyter Notebook (Anaconda 3)" depuis ma barre Windows et j'ouvre les fichiers tuto_X.ipynb, ou je copie colle les bouts de script dans l'éditeur de code Spyder (aussi contenu dans Anaconda).
+- Option Install' : je télécharge une bonne fois pour toute <a href="https://www.anaconda.com/download/">Anaconda<a>, c'est libre de droits et ça marche bien. Ensuite je lance *Jupyter Notebook (Anaconda 3)* depuis ma barre Windows et j'ouvre les fichiers *tuto_X.ipynb* ci-dessous, ou je copie colle les bouts de script dans l'éditeur de code *Spyder* (aussi installé avec Anaconda).
 
 ## Que contient ce dossier ?
 Une série de tutos sur les fondamentaux, sous la forme de *jupyter notebooks*, que vous pouvez travailler en ligne, ou en les téléchargeant.
