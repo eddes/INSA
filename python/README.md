@@ -9,7 +9,7 @@
 
 ## Que contient ce dossier ?
 Une série de tutos sur les fondamentaux, sous la forme de *jupyter notebooks*, que vous pouvez travailler en ligne, ou en les téléchargeant.
-- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_2.ipynb">Tuto \#1<a>** les bases de python : opérations, conditions, boucles, listes, fonctions
-- **Tuto \#2** manipuler des données : lire/écrire dans un fichier, faire quelques stats de base
-- **Tuto \#3** se servir de python comme d'un outil : résoudre une équation/un système, réaliser une intégration
-- **Tuto \#4** des fonctions avancées et des applications : minimisation modèle/mesure, calcul de confort, webscraping
+- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_1.ipynb">Tuto \#1<a>** les bases de python : opérations, conditions, boucles, listes, fonctions
+- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_2.ipynb">Tuto \#2<a>** manipuler des données : lire/écrire dans un fichier, faire quelques stats de base
+- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_3.ipynb">Tuto \#3<a>** se servir de python comme d'un outil : résoudre une équation/un système, réaliser une intégration
+- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_4.ipynb">Tuto \#4<a>** des fonctions avancées et des applications : minimisation modèle/mesure, calcul de confort, webscraping
