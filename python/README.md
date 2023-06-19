@@ -20,4 +20,4 @@ Une série de tutos sur les fondamentaux, sous la forme de *jupyter notebooks*, 
     <img title="" alt="" src="./src/img_dj.png" width="200">
 - **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_4.ipynb">Tuto \#4<a>** des fonctions avancées et des applications : minimisation modèle/mesure, calcul de confort, webscraping
   
-  <img title="" alt="" src="./src/img_set.png" width="200">
+  <img title="" alt="" src="./src/img_set.png" width="200"><img title="" alt="" src="./src/img_cc.png" width="200"><img title="" alt="" src="./src/img_deet.png" width="200">
