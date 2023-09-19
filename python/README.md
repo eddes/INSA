@@ -23,13 +23,15 @@ Ensuite les applications dédiées, présentés sous la forme de blocs/boîtes-�
 
 - **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_interpolation.ipynb">Tuto \#4<a>** : interpoler sur une série de données
 
+  <img title="" alt="" src="./src/img_interp.png" width="200">
+
 - **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_integration.ipynb">Tuto \#3<a>** : réaliser une intégration numérique
 
     <img title="" alt="" src="./src/img_dj.png" width="200">
 
+- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_solve_equation.ipynb">Tuto \#5<a>** : résoudre une équation/un système d'équations
 
-
-- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_5.ipynb">Tuto \#5<a>** : résoudre une équation/un système d'équations
+  <img title="" alt="" src="./src/img_eq.png" width="200">
 
 - **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_6.ipynb">Tuto \#6<a>** : intégrer une équation différentielle/un système d'équations différentielles
 
