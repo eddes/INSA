@@ -14,6 +14,7 @@ D'abord un bref tour d'horizon des bases :
 - **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_1.ipynb">Tuto \#1<a>** les bases de python : opérations, conditions, boucles, listes, fonctions
   
   <img title="" alt="" src="./src/img_fc.png" width="250">
+  
 - **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_2.ipynb">Tuto \#2<a>** manipuler des données : lire/écrire dans un fichier, faire quelques stats de base
 
   <img title="" alt="" src="./src/img_dist.png" width="220">
