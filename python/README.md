@@ -24,6 +24,7 @@ Ensuite les applications dédiées, présentés sous la forme de blocs/boîtes-�
 - **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_3.ipynb">Tuto \#3<a>** : réaliser une intégration numérique
 
 <img title="" alt="" src="./src/img_dj.png" width="200">  
+
 - **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_4.ipynb">Tuto \#4<a>** : résoudre une équation/un système d'équations
 
 - **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_5.ipynb">Tuto \#5<a>** : intégrer une équation différentielle/un système d'équations différentielles
