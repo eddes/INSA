@@ -4,7 +4,7 @@
 
 ## Comment accéder à un environnement python ?
 
-- **Option flemme** : je travaille en ligne, je clique sur les tutos et un lien m'envoie vers google colab, où je pourrai tester le code (en revanche il faut disposer d'un compte gmail)
+- **Option flemme** : je travaille en ligne, je clique sur les tutos et un lien m'envoie vers google colab, où je pourrai tester le code (en revanche il faut disposer d'un compte gmail...)
 - **Option install'** : je télécharge une bonne fois pour toute <a href="https://www.anaconda.com/download/">Anaconda<a>, c'est libre de droits et ça marche bien. Ensuite je lance *Jupyter Notebook (Anaconda 3)* depuis ma barre Windows et j'ouvre les fichiers *tuto_X.ipynb* ci-dessous, ou je copie colle les bouts de script dans l'éditeur de code *Spyder* (aussi installé avec Anaconda). Pas clair ? <a href="https://www.geeksforgeeks.org/how-to-install-anaconda-on-windows/">par ici<a>.
 
 ## Que contient ce dossier ?
@@ -32,6 +32,11 @@ Ensuite les applications dédiées, présentés sous la forme de blocs/boîtes-�
 - **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_solve_equation.ipynb">Tuto \#5<a>** : résoudre une équation/un système d'équations
 
   <img title="" alt="" src="./src/img_eq.png" width="200">
+
+- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_fit_equation.ipynb">Tuto \#6<a>** : approximer des données mesurées par une courbe de tendance
+  
+  <img title="" alt="" src="./src/img_fit.png" width="200">
+
 
 - **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_6.ipynb">Tuto \#6<a>** : intégrer une équation différentielle/un système d'équations différentielles
 
