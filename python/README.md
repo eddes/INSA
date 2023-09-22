@@ -21,13 +21,13 @@ D'abord un bref tour d'horizon des bases :
 
 Ensuite les applications dédiées, présentés sous la forme de blocs/boîtes-à-outil :
 
-- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_interpolation.ipynb">Tuto \#4<a>** : interpoler sur une série de données
-
-  <img title="" alt="" src="./src/img_interp.png" width="200">
-
 - **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_integration.ipynb">Tuto \#3<a>** : réaliser une intégration numérique
 
     <img title="" alt="" src="./src/img_dj.png" width="200">
+
+- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_interpolation.ipynb">Tuto \#4<a>** : interpoler sur une série de données
+
+  <img title="" alt="" src="./src/img_interp.png" width="200">
 
 - **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_solve_equation.ipynb">Tuto \#5<a>** : résoudre une équation/un système d'équations
 
@@ -38,6 +38,8 @@ Ensuite les applications dédiées, présentés sous la forme de blocs/boîtes-�
   <img title="" alt="" src="./src/img_fit.png" width="200">
 
 - **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_equa_diff.ipynb">Tuto \#6<a>** : intégrer une équation différentielle/un système d'équations différentielles
+
+  <img title="" alt="" src="./src/img_ode.png" width="200">
 
 - **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_7.ipynb">Tuto \#7<a>** : minimiser l'écart entre un modèle et des mesures par action sur les paramètres du modèle ("fitter" dans le jargon).
   
