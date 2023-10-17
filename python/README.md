@@ -45,9 +45,13 @@ Ensuite les applications dédiées, présentés sous la forme de blocs/boîtes-�
   
   <img title="" alt="" src="./src/img_fit.png" width="200">
   
-- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_meteostat.ipynb">Tutos "packages"<a>** : utilisation du package meteostat pour la récupération de fichiers météo
+- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_meteostat.ipynb">Tuto meteostat<a>** : utilisation du package meteostat pour la récupération de fichiers météo
   
   <img title="" alt="" src="./src/img_meteostat.png" width="200">
+
+- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_pyvista.ipynb">Tuto pyvista<a>** : utilisation du package pyvista pour le travail en géométrie 3D
+  
+  <img title="" alt="" src="./src/img_pyvista.png" width="200">
 
 - **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_n.ipynb">Tutos "packages"<a>** : utiliser des packages spécifiques pour le calcul de confort, la récupération de fichiers météo, le webscraping...
   
