@@ -35,7 +35,7 @@ Ensuite les applications dédiées, présentés sous la forme de blocs/boîtes-�
 
 - **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_fit_equation.ipynb">Tuto \#6<a>** : approximer des données mesurées par une courbe de tendance
   
-  <img title="" alt="" src="./src/img_fit.png" width="200">
+  <img title="" alt="" src="./src/img_fit2.png" width="200">
 
 - **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_equa_diff.ipynb">Tuto \#7<a>** : intégrer une équation différentielle/un système d'équations différentielles
 
