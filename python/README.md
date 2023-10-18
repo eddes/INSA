@@ -53,6 +53,6 @@ Ensuite les applications dédiées, présentés sous la forme de blocs/boîtes-�
   
   <img title="" alt="" src="./src/img_pyvista.png" width="200">
 
-- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_n.ipynb">Tutos "packages"<a>** : utiliser des packages spécifiques pour le calcul de confort, la récupération de fichiers météo, le webscraping...
+- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_n.ipynb">Tutos "packages [EN COURS]"<a>** : ... pour bientôt savoir utiliser des packages spécifiques pour le calcul de confort, la récupération de fichiers météo, le webscraping...
   
   <img title="" alt="" src="./src/img_set.png" width="200"><img title="" alt="" src="./src/img_cc.png" width="200"><img title="" alt="" src="./src/img_deet.png" width="200">
