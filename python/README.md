@@ -21,6 +21,10 @@ D'abord un bref tour d'horizon des bases :
 
 Ensuite les applications dédiées, présentés sous la forme de blocs/boîtes-à-outil :
 
+- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_dataframe.ipynb">Tuto \#3<a>** : exploiter des données avec un dataframe
+
+    <img title="" alt="" src="./src/img_df.png" width="200">
+
 - **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_integration.ipynb">Tuto \#3<a>** : réaliser une intégration numérique
 
     <img title="" alt="" src="./src/img_dj.png" width="200">
