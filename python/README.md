@@ -4,9 +4,9 @@
 
 ## Comment accéder à un environnement python ?
 
-- **Option install' Anaconda** : je télécharge une bonne fois pour toute <a href="https://www.anaconda.com/download/">Anaconda<a>, c'est libre de droits et ça marche bien. Ensuite je lance *Jupyter Notebook (Anaconda 3)* depuis ma barre Windows et j'ouvre les fichiers *tuto_X.ipynb* ci-dessous, ou je copie colle les bouts de script dans l'éditeur de code *Spyder* (aussi installé avec Anaconda). Pas clair ? <a href="https://www.geeksforgeeks.org/how-to-install-anaconda-on-windows/">par ici<a>. On évitera d'installer *Spyder* en version stand-alone car l'ajout de packages est compliqué et que nous allons en faire quelques-uns !
+- **Option install' Anaconda** : je télécharge une bonne fois pour toute <a href="https://www.anaconda.com/download/">Anaconda<a>, c'est libre de droits et ça marche bien. Ensuite je lance *Jupyter Notebook (Anaconda 3)* depuis ma barre Windows et j'ouvre les fichiers *tuto_X.ipynb* ci-dessous, ou je copie colle les bouts de script dans l'éditeur de code *Spyder* (aussi installé avec Anaconda). Pas clair ? <a href="https://www.geeksforgeeks.org/how-to-install-anaconda-on-windows/">par ici<a>. On évitera d'installer *Spyder* dans sa version en solo car l'ajout de packages est compliqué et que nous allons en faire quelques-uns !
 
-- **Option install' Pyzo** : je télécharge le libre et léger <a href="https://pyzo.org/start.html">Pyzo<a>, c'est un environnement python uniquement (pas de notebooks). J'accède à l'éditeur de code pour exécuter le code.
+- **Option install' Pyzo** : je télécharge le libre et léger <a href="https://pyzo.org/start.html">Pyzo<a>, c'est un environnement python uniquement (pas de notebooks). J'accède à l'éditeur pour exécuter le code et j'utilise `pip install lenomdupackage` pour installer les packages manquants.
 
 - **Option flemme** (ok pour la première séance) : je travaille en ligne, je clique sur les tutos et un lien m'envoie vers google colab, où je pourrai tester le code (en revanche il faut disposer d'un compte gmail...). Attention, la sauvegarde est plus compliquée !
 
