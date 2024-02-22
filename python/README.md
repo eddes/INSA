@@ -48,7 +48,7 @@ Ensuite les applications dédiées, présentés sous la forme de blocs/boîtes-�
 
   <img title="" alt="" src="./src/img_ode.png" width="200">
 
-- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_7.ipynb">Tuto \#8<a>** : minimiser l'écart entre un modèle et des mesures par action sur les paramètres du modèle ("fitter" dans le jargon).
+- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_minimize.ipynb">Tuto \#8<a>** : minimiser l'écart entre un modèle et des mesures par action sur les paramètres du modèle ("fitter" dans le jargon).
   
   <img title="" alt="" src="./src/img_fit2.png" width="200">
   
