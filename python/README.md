@@ -60,6 +60,6 @@ Ensuite les applications dédiées, présentés sous la forme de blocs/boîtes-�
   
   <img title="" alt="" src="./src/img_pyvista.png" width="200">
 
-- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_n.ipynb">Tutos "packages [EN COURS]"<a>** : ... pour bientôt savoir utiliser des packages spécifiques pour le calcul de confort, la récupération de fichiers météo, le webscraping...
+- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_pvlib.ipynb">Tuto pvlib"<a>** : utilisation du package pvlib pour la reconstitution des flux solaires direct et diffus sur un plan quelconque, à partir d'un fichier météorologique.
   
-  <img title="" alt="" src="./src/img_set.png" width="200"><img title="" alt="" src="./src/img_cc.png" width="200"><img title="" alt="" src="./src/img_deet.png" width="200">
+  <img title="" alt="" src="./src/img_pvlib.png" width="200">
