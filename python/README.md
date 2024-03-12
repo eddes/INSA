@@ -24,31 +24,31 @@ D'abord un bref tour d'horizon des bases :
 
 Ensuite les applications dédiées, présentés sous la forme de blocs/boîtes-à-outil :
 
-- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_dataframe.ipynb">Tuto \#3<a>** : exploiter des données avec un dataframe
+- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_dataframe.ipynb">Tuto dataframe<a>** : exploiter des données avec un dataframe
 
     <img title="" alt="" src="./src/img_df.png" width="200">
 
-- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_integration.ipynb">Tuto \#3<a>** : réaliser une intégration numérique
+- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_integration.ipynb">Tuto intégration<a>** : réaliser une intégration numérique, pour un calcul d'énergie à partir d'une puissance
 
     <img title="" alt="" src="./src/img_dj.png" width="200">
 
-- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_interpolation.ipynb">Tuto \#4<a>** : interpoler sur une série de données
+- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_interpolation.ipynb">Tuto interpolation<a>** : interpoler sur une série de données, par exemple pour combler des vides dans une mesure
 
   <img title="" alt="" src="./src/img_interp.png" width="200">
 
-- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_solve_equation.ipynb">Tuto \#5<a>** : résoudre une équation/un système d'équations
+- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_solve_equation.ipynb">Tuto résolution<a>** : résoudre une équation/un système d'équations
 
   <img title="" alt="" src="./src/img_eq.png" width="200">
 
-- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_fit_equation.ipynb">Tuto \#6<a>** : approximer des données mesurées par une courbe de tendance
+- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_fit_equation.ipynb">Tuto courbe de tendance<a>** : approximer des données mesurées par une courbe de tendance
   
   <img title="" alt="" src="./src/img_fit.png" width="200">
 
-- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_equa_diff.ipynb">Tuto \#7<a>** : intégrer une équation différentielle/un système d'équations différentielles
+- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_equa_diff.ipynb">Tuto équa diff'<a>** : intégrer une équation différentielle/un système d'équations différentielles
 
   <img title="" alt="" src="./src/img_ode.png" width="200">
 
-- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_minimize.ipynb">Tuto \#8<a>** : minimiser l'écart entre un modèle et des mesures par action sur les paramètres du modèle ("fitter" dans le jargon).
+- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_minimize.ipynb">Tuto fit<a>** : minimiser l'écart entre un modèle et des mesures par action sur les paramètres du modèle ("fitter" dans le jargon).
   
   <img title="" alt="" src="./src/img_fit2.png" width="200">
   
@@ -60,6 +60,6 @@ Ensuite les applications dédiées, présentés sous la forme de blocs/boîtes-�
   
   <img title="" alt="" src="./src/img_pyvista.png" width="200">
 
-- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_pvlib.ipynb">Tuto pvlib"<a>** : utilisation du package pvlib pour la reconstitution des flux solaires direct et diffus sur un plan quelconque, à partir d'un fichier météorologique.
+- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_pvlib.ipynb">Tuto pvlib<a>** : utilisation du package pvlib pour la reconstitution des flux solaires direct et diffus sur un plan quelconque, à partir d'un fichier météorologique.
   
   <img title="" alt="" src="./src/img_pvlib.png" width="200">
