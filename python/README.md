@@ -63,3 +63,7 @@ Ensuite les applications dédiées, présentés sous la forme de blocs/boîtes-�
 - **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_pvlib.ipynb">Tuto pvlib<a>** : utilisation du package pvlib pour la reconstitution des flux solaires direct et diffus sur un plan quelconque, à partir d'un fichier météorologique.
   
   <img title="" alt="" src="./src/img_pvlib.png" width="200">
+
+- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_geopandas.ipynb">Tuto pvlib<a>** : les packages geopandas/geoplot pour afficher des informations sur des cartes à partir d'un fichier geojson.
+  
+  <img title="" alt="" src="./src/img_geopd.png" width="200">
