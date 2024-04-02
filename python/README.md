@@ -71,3 +71,7 @@ Ensuite les applications dédiées, présentés sous la forme de blocs/boîtes-�
 - **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_pyviewfactor.ipynb">Tuto pyviewfactor<a>** : calculer un facteur de forme de rayonnement de manière simple à partir d'une géométrie 3D.
   
   <img title="" alt="" src="./src/img_pvf.png" width="200">
+
+- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_pyromat.ipynb">Tuto pyromat<a>** : se servir des propriétés thermophysiques d'un fluide pour calculer un rendement de cycle, une efficacité...
+  
+  <img title="" alt="" src="./src/img_pyromat.png" width="200">
