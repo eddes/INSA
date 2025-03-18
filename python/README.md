@@ -64,7 +64,7 @@ Ensuite les applications dédiées, présentés sous la forme de blocs/boîtes-�
   
   <img title="" alt="" src="./src/img_pvlib.png" width="200">
 
-- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_geopandas.ipynb">Tuto geopandas<a>** : les packages geopandas/geoplot pour afficher des informations sur des cartes choroplèthe à partir d'un fichier geojson.
+- **<a href="https://github.com/eddes/INSA/blob/main/python/tuto_geopandas.ipynb">Tuto poltly/geopandas<a>** : les packages plotly/geopandas/geoplot pour afficher des informations sur des cartes choroplèthe à partir d'un fichier geojson.
   
   <img title="" alt="" src="./src/img_geopd.png" width="200">
 
